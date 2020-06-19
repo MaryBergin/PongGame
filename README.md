@@ -8,5 +8,4 @@ Scores are tracked at the top, first player to 3 points wins!
 # Demo Content
 
 ## Start Menu
-![Start menu of Pong game, says Pong by Mary Bergin with a button that reads play]
-(Demo_Images/StartMenu.png)
+![Start menu of Pong game, says Pong by Mary Bergin with a button that reads play](Demo_Images/StartMenu.png)
