@@ -9,3 +9,9 @@ Scores are tracked at the top, first player to 3 points wins!
 
 ## Start Menu
 ![Start menu of Pong game, says Pong by Mary Bergin with a button that reads play](Demo_Images/StartMenu.png)
+
+## Gameplay
+![Game play of classic pong game](Demo_Images/Gameplay.png)
+
+## Game Over
+![Game over screen with button that reads play, to restart the game](Demo_Images/Gameover.png)
